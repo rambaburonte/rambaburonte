@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rambaburonte
 - 👀 I’m interested in JAVA FULL STACK DEVLOPER
-- 🌱 I’m currently learning JAVASCRIPT 
+- 🌱 I’m currently learning Kafka 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
