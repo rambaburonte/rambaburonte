@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rambaburonte
-- 👀 I’m interested in JAVA FULL STACK DEVLOPER
-- 🌱 I’m currently learning Kafka 
+- 👀 I’m interested in FULL STACK DEVLOPER
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 https://rambaburonte.vercel.app/
